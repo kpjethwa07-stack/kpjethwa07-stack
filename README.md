@@ -1,137 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=250&section=header&text=Kaushal%20Jethwa&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20with%20Code,%20AI%20%26%20IoT&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4B6584&height=180&section=header&text=Kaushal%20Jethwa&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Parul%20University&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-jethwa-386928378/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kpjethwa07-stack)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kpjethwa07@gmail.com)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=CS+Student+%40+Parul+University;Full-Stack+%2B+AI+%2B+IoT+Enthusiast;Turning+Ideas+Into+Code;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
-</a>
+</div>
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+## About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-jethwa-386928378/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kpjethwa07-stack)
-![Profile Views](https://komarev.com/ghpvc/?username=kpjethwa07-stack&style=for-the-badge&color=8B5CF6)
+I'm a Computer Science student in my 3rd semester at Parul University, with a first-year GPA of **8.29**. I'm focused on building practical, well-structured software — spanning full-stack web development, IoT, and applied AI tooling — and I'm actively expanding into embedded systems and robotics.
 
-</div>
-
----
-
-### 🚀 About Me
-
-```yaml
-student:
-  name: "Kaushal Jethwa"
-  university: "Parul University"
-  semester: 3
-  first_year_gpa: 8.29
-  focus: ["Web Development", "AI Tooling", "IoT & Robotics"]
-  currently_exploring: "Embedded systems & connected devices"
-  status: "Open to internships 🚀"
-```
-
-I'm a college student passionate about writing clean code and solving real-world problems through technology. I enjoy building full-stack web applications, experimenting with AI-assisted development ("vibe coding"), and exploring the world of IoT and robotics.
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=codeforces&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=internetarchive&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF6F61?style=for-the-badge&logo=sparkfun&logoColor=white)
+- 🎓 3rd Semester, B.Tech Computer Science — Parul University
+- 📊 First Year GPA: 8.29
+- 🔭 Currently exploring: IoT, robotics, and embedded systems
+- 🎯 Looking for: Internship opportunities
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,js,angularjs,html,css,git,github,vscode&theme=dark" />
+## Skills
 
-</div>
+**Languages:** Python, JavaScript
+**Frameworks:** AngularJS
+**Core Concepts:** Object-Oriented Programming (OOP), Internet of Things (IoT)
+**Tools & Practices:** Prompt Engineering, AI-Assisted Development
 
----
+<br/>
 
-### 📌 Featured Projects
+## Projects
 
-<div align="center">
+### [TraceBack](https://github.com/kpjethwa07-stack/TraceBack)
+A centralized lost-and-found platform built to streamline item recovery within campuses and communities. Users can report lost or found items with detailed descriptions and images, backed by smart search and real-time updates.
+`React` `Tailwind CSS` `JavaScript`
 
-<a href="https://github.com/kpjethwa07-stack/TraceBack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kpjethwa07-stack&repo=TraceBack&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/kpjethwa07-stack/InfiniteAtlas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kpjethwa07-stack&repo=InfiniteAtlas&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
+### [InfiniteAtlas](https://github.com/kpjethwa07-stack/InfiniteAtlas)
+A TypeScript-based project focused on interactive, data-driven web experiences.
+`TypeScript`
 
-</div>
+<br/>
 
-#### 🔎 [TraceBack](https://github.com/kpjethwa07-stack/TraceBack)
-A modern, centralized lost-and-found platform built to streamline item recovery within campuses and communities. Users can report lost or found items with detailed descriptions and images, powered by smart search and real-time updates.
-**Tech Stack:** React, Tailwind CSS, JavaScript
-
-#### 🌐 [InfiniteAtlas](https://github.com/kpjethwa07-stack/InfiniteAtlas)
-A TypeScript-based project exploring interactive, data-driven web experiences.
-**Tech Stack:** TypeScript
-
----
-
-### 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kpjethwa07-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kpjethwa07-stack&theme=tokyonight&hide_border=true&border_radius=12" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpjethwa07-stack&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="50%"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=kpjethwa07-stack&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpjethwa07-stack&layout=compact&theme=default&hide_border=true" width="38%"/>
 </div>
 
----
+<br/>
 
-### 🐍 Contribution Snake
+## Contact
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/kpjethwa07-stack/kpjethwa07-stack/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
+- **LinkedIn:** [kaushal-jethwa](https://www.linkedin.com/in/kaushal-jethwa-386928378/)
+- **GitHub:** [kpjethwa07-stack](https://github.com/kpjethwa07-stack)
+- **Email:** kpjethwa07@gmail.com
 
-> Note: the snake animation needs a one-time GitHub Action set up in this repo (`platane/snk`) — see the setup note below.
-
----
-
-### 💻 Coding Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kpjethwa07-stack&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
----
-
-### 🔭 Currently Exploring
-
-- 🤖 Robotics and IoT-based projects
-- 🔌 Deepening my understanding of embedded systems
-- ⚡ Applying AI tools to speed up and improve development workflows
-
-<div align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>
-</div>
-
----
-
-<div align="center">
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-jethwa-386928378/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kpjethwa07-stack)
-
-⭐️ *Open to internship opportunities and collaborative projects — feel free to reach out!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:6366F1&height=150&section=footer&animation=twinkling" width="100%"/>
-
-</div>
+<sub>Open to internship opportunities and collaborative projects.</sub>
