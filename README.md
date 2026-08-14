@@ -51,6 +51,14 @@ A TypeScript-based project focused on interactive, data-driven web experiences.
 
 <br/>
 
+## LeetCode Stats
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/KaushalJethwa?theme=light&font=Baloo%202&ext=heatmap" width="90%"/>
+</div>
+
+<br/>
+
 ## Contact
 
 - **LinkedIn:** [kaushal-jethwa](https://www.linkedin.com/in/kaushal-jethwa-386928378/)
