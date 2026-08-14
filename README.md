@@ -19,10 +19,8 @@
 
 I'm a Computer Science student in my 3rd semester at Parul University, with a first-year GPA of **8.29**. I'm focused on building practical, well-structured software — spanning full-stack web development, IoT, and applied AI tooling — and I'm actively expanding into embedded systems and robotics.
 
-- 🎓 3rd Semester, B.Tech Computer Science — Parul University
-- 📊 First Year GPA: 8.29
-- 🔭 Currently exploring: IoT, robotics, and embedded systems
-- 🎯 Looking for: Internship opportunities
+- 🎓 B.Tech Computer Science — Parul University
+- 🔭 Currently exploring: IoT, robotics, embedded systems and other programming languages
 
 <br/>
 
