@@ -21,6 +21,7 @@ I'm a Computer Science student in my 3rd semester at Parul University, with a fi
 
 - 🎓 B.Tech Computer Science — Parul University
 - 🔭 Currently exploring: IoT, robotics, embedded systems and other programming languages
+-  ⎙ Portfolio at https://kpjethwa07-stack.github.io/protfolio/
 
 <br/>
 
