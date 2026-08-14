@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4B6584&height=180&section=header&text=Kaushal%20Jethwa&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Parul%20University&descAlignY=62&descSize=16" width="100%"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=38&duration=2500&pause=1200&color=2C3E50&center=true&vCenter=true&width=600&height=60&lines=Kaushal+Jethwa" alt="Typing SVG" />
+</a>
+
+<p><b>Computer Science Student | Parul University</b></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-jethwa-386928378/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kpjethwa07-stack)
@@ -9,6 +13,7 @@
 </div>
 
 <br/>
+
 
 ## About Me
 
