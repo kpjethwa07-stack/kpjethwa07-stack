@@ -45,8 +45,8 @@ A TypeScript-based project focused on interactive, data-driven web experiences.
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kpjethwa07-stack&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpjethwa07-stack&layout=compact&theme=default&hide_border=true" width="38%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=kpjethwa07-stack&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kpjethwa07-stack&layout=compact&theme=default&hide_border=true" width="38%"/>
 </div>
 
 <br/>
