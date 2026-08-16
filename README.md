@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=38&duration=2500&pause=1200&color=2C3E50&center=true&vCenter=true&width=600&height=60&lines=Kaushal+Jethwa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=38&duration=2500&pause=1200&color=6C5CE7&center=true&vCenter=true&width=600&height=60&lines=Kaushal+Jethwa" alt="Typing SVG" />
 </a>
 
 <p><b>Computer Science Student | Parul University</b></p>
