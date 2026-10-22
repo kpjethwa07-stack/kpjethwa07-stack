@@ -1,64 +1,100 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=38&duration=2500&pause=1200&color=6C5CE7&center=true&vCenter=true&width=600&height=60&lines=Kaushal+Jethwa" alt="Typing SVG" />
+# Kaushal Jethwa
+
+### Computer Science Student | Aspiring Software Development Engineer
+
+Building projects • Practising DSA • Learning software engineering
+
+<br/>
+
+<a href="https://kpjethwa07-stack.github.io/protfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6A00F5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/kaushal-jethwa-386928378/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/kpjethwa07-stack">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:kpjethwa07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<p><b>Computer Science Student | Parul University</b></p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-jethwa-386928378/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kpjethwa07-stack)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kpjethwa07@gmail.com)
-
 </div>
 
-<br/>
+---
 
+## 👨‍💻 About Me
 
-## About Me
+- 🎓 B.Tech Computer Science student at Parul University.
+- 💻 Interested in software engineering, problem-solving, and backend development.
+- 🧠 Practising Data Structures and Algorithms using C++.
+- 🔧 Building projects to improve practical development skills.
+- 🎯 Working towards a career as a Software Development Engineer.
 
-I'm a Computer Science student in my 3rd semester at Parul University, with a first-year GPA of **8.29**. I'm focused on building practical, well-structured software — spanning full-stack web development, IoT, and applied AI tooling — and I'm actively expanding into embedded systems and robotics.
-
-- 🎓 B.Tech Computer Science — Parul University
-- 🔭 Currently exploring: IoT, robotics, embedded systems and other programming languages
--  ⎙ Portfolio at https://kpjethwa07-stack.github.io/protfolio/
-
-<br/>
-
-## Skills
-
-**Languages:** Python, JavaScript
-**Frameworks:** AngularJS
-**Core Concepts:** Object-Oriented Programming (OOP), Internet of Things (IoT)
-**Tools & Practices:** Prompt Engineering, AI-Assisted Development
-
-<br/>
-
-## Projects
-
-### [TraceBack](https://github.com/kpjethwa07-stack/TraceBack)
-A centralized lost-and-found platform built to streamline item recovery within campuses and communities. Users can report lost or found items with detailed descriptions and images, backed by smart search and real-time updates.
-`React` `Tailwind CSS` `JavaScript`
-
-### [InfiniteAtlas](https://github.com/kpjethwa07-stack/InfiniteAtlas)
-A TypeScript-based project focused on interactive, data-driven web experiences.
-`TypeScript`
-
-<br/>
-
-## GitHub Stats
+## ⚙️ Tech Stack
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=kpjethwa07-stack&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kpjethwa07-stack&layout=compact&theme=default&hide_border=true" width="38%"/>
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,html,css,js,flask,sqlite,git,github&theme=dark" alt="Technology stack"/>
+
 </div>
 
-<br/>
+## 🚀 Featured Projects
 
-## Contact
+### 🛡️ Bastion — Security Simulation
 
-- **LinkedIn:** [kaushal-jethwa](https://www.linkedin.com/in/kaushal-jethwa-386928378/)
-- **GitHub:** [kpjethwa07-stack](https://github.com/kpjethwa07-stack)
-- **Email:** kpjethwa07@gmail.com
+An educational security simulation built with Flask and SQLite to explore security-related concepts and application behaviour.
 
-<sub>Open to internship opportunities and collaborative projects.</sub>
+**Technologies:** Python · Flask · SQLite
+
+[View Source Code](https://github.com/kpjethwa07-stack/Bastion) · [Watch Demo](https://www.youtube.com/watch?v=DMimN9Z5P9E)
+
+### 🔎 TraceBack — Lost and Found
+
+A web project designed to help people report and find lost items.
+
+**Technologies:** HTML · CSS · TypeScript
+
+[View Repository](https://github.com/kpjethwa07-stack/TraceBack)
+
+### 🤖 Arduino Obstacle Alert System
+
+An Arduino-based project that detects nearby obstacles using an ultrasonic sensor and provides alerts.
+
+**Technologies:** Arduino UNO · C++ · HC-SR04 · LED · Buzzer
+
+[View Project Demo](https://stellular-yeot-f05e3d.netlify.app/)
+
+---
+
+## 🌐 Portfolio & Connect
+
+<div align="center">
+
+<a href="https://kpjethwa07-stack.github.io/protfolio/">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-6A00F5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/kaushal-jethwa-386928378/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/kpjethwa07-stack">
+  <img src="https://img.shields.io/badge/GITHUB-My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:kpjethwa07@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `Think. Code. Debug. Improve.`
+
+*Learning through practice. Building through experience.*
