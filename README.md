@@ -69,14 +69,6 @@ An Arduino-based project that detects nearby obstacles using an ultrasonic senso
 
 ---
 
-## 🐠 Contribution Fish
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kpjethwa07-stack/kpjethwa07-stack/output/contribution-fish.svg" alt="Animated fish that grows as my yearly GitHub contributions increase" width="800"/>
-</div>
-
----
-
 ## 🌐 Portfolio & Connect
 
 <div align="center">
@@ -106,5 +98,3 @@ An Arduino-based project that detects nearby obstacles using an ultrasonic senso
 ### `Think. Code. Debug. Improve.`
 
 *Learning through practice. Building through experience.*
-
-</div>
