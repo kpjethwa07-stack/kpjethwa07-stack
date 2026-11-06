@@ -69,6 +69,18 @@ An Arduino-based project that detects nearby obstacles using an ultrasonic senso
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kpjethwa07-stack/kpjethwa07-stack/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kpjethwa07-stack/kpjethwa07-stack/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/kpjethwa07-stack/kpjethwa07-stack/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ## 🌐 Portfolio & Connect
 
 <div align="center">
@@ -98,3 +110,5 @@ An Arduino-based project that detects nearby obstacles using an ultrasonic senso
 ### `Think. Code. Debug. Improve.`
 
 *Learning through practice. Building through experience.*
+
+</div>
