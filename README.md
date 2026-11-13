@@ -65,8 +65,6 @@ IssueFlow is a modern, full-stack issue tracking and project collaboration web a
 
 ## 🔗 Live Links
 * **Frontend:** [Live Frontend](https://issue-flow-coral.vercel.app/)
-* **Backend API:** [Backend Service](https://issue-flow-hc3p.vercel.app/)
-* **API Health Check:** [API Status](https://issue-flow-hc3p.vercel.app/api/health)
 
 ---
 
